@@ -49,3 +49,4 @@ The system is designed to scale into a fully distributed architecture, with chun
 * [ ] Web Dashboard for uploads, status, and file management
 
 ---
+![image](https://github.com/user-attachments/assets/97ebf4f4-e557-489a-925d-c74565c896e9)
